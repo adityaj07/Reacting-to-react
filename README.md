@@ -9,4 +9,4 @@ A Text-Utility app made with react where we can write some text and perform the 
 #### 5) To copy text 
 and we can get a text summary of our text which tells us about the number of characters and words our text has.
 
-#### You can view the website here 👉: [https://text-utilify.netlify.app/]Text-Utils
+#### You can view the website here 👉: [Text-Utils](https://text-utilify.netlify.app/)
