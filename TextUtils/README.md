@@ -1,4 +1,4 @@
-## 1)  Text-Utils 
+## Text-Utils 
 
 A Text-Utility app made with react where we can write some text and perform the following functions on it: 
 -  To convert text to Upper case
